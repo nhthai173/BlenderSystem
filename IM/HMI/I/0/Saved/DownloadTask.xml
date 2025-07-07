@@ -7,6 +7,7 @@
   <FullDownload>{92366C3F-8666-4771-B263-677BDC1CDE49}.zip</FullDownload>
   <FullDownload>{9BA2ACF0-39B3-465B-8E10-28301ED605C5}.zip</FullDownload>
   <FullDownload>{B43A7557-2BF8-4F69-B0F2-D15F9A54F65C}.zip</FullDownload>
+  <FullDownload>{BF978C8D-176E-4843-9CC0-52221BC860AF}.zip</FullDownload>
   <FullDownload>{C0A815FA-F815-48FF-9A5D-F345D837E99D}.zip</FullDownload>
   <FullDownload>config\config.level</FullDownload>
   <FullDownload>device\devicesettings.pbb</FullDownload>
@@ -41,5 +42,6 @@
   <FullDownload>screens\screen_228.rdf</FullDownload>
   <FullDownload>screens\screen_230.rdf</FullDownload>
   <FullDownload>screens\screen_231.rdf</FullDownload>
+  <FullDownload>screens\screen_236.rdf</FullDownload>
   <FullDownload>system\ProjectCharacteristics.rdf</FullDownload>
 </DownloadTask>
